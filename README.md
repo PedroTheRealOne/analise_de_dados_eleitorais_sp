@@ -7,3 +7,5 @@ Analisar os dados para saber quanto foi a média gasta em pesquisa eleitoral na 
 ### Alunos
 - Pedro Henrique de Paula Sá
 - Barbara Eugenia Negosseki de Gontijo
+
+https://dados.gov.br/dataset/resultado-das-eleicoes
