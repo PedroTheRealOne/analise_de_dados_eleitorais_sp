@@ -1,11 +1,11 @@
-# Analise de dados eleitorais de São Paulo
+# Analise de dados eleitorais de São José dos Campos
 
-## Objetivo da analise:
+De acordo com os dados públicos distribuidos pelo governo será feita uma análise eleitoral da cidade de São José dos Campos comparando os votos válidos e inválidos e se houve um crescimento entre eles. Esse estudo terá a finalidade de analisar o crescimento ou declíneo do engajamento polício nos últimos 15 anos, visto que cada vez mais os jovens estão interados em política.
 
-Analisar os dados para saber quanto foi a média gasta em pesquisa eleitoral na cidade de São José dos Campos, ao longo dos anos. E comparar os maiores valores de cada ano.
+Foram utilizados os dados com a quantidade de votos por seção de todo o Brasil nos anos eleitorais, esses dados foram filtrados por São Paulo e depois por São José dos Campos.
 
-### Alunos
+### Alunos Responsáveis pelo Trabalho
 - Pedro Henrique de Paula Sá
 - Barbara Eugenia Negosseki de Gontijo
 
-https://dados.gov.br/dataset/resultado-das-eleicoes
+Fonte de dados: https://dados.gov.br/dataset/resultado-das-eleicoes
